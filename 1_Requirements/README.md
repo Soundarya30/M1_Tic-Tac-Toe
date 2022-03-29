@@ -22,5 +22,27 @@ Tic-Tac-Toe game is also known as Xs and Os game or noughts and crosses game. It
  
  ![features1](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/features.drawio.png)
  # SWOT Analysis
- 
+ ## Strengths
+ * Encourage us to play with our freinds
+ * Easy to play the game
+ * Throws away our stress
+ ## Weaknesses
+ * More than 2 players cannot play the game
+ ## Opportunities
+ * Enlargement of the system scope
+ * Skills can be developed
+ ## Threats
+ * Emphasis on limited schemes
+ * Obstacles to be faced 
+ # 4W&#39;s and 1&#39;H
+ ## Who
+ * Game developers
+ * School and college students
+ ## What
+ * Person can play Tic-Tac-Toe game with his freinds
+ ## When
+ * Eager to play games with freinds
+ ## Where
+ * This project can be used by game developers and school or college students
+ ## How
  
