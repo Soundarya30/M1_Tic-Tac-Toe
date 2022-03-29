@@ -48,6 +48,15 @@ Tic-Tac-Toe game is also known as Xs and Os game or noughts and crosses game. It
  * This project provide refreshment to the players
  # Detail Requirements
  ## High Level Requirements
- 
- 
+ | Description | Status |
+| --- | --- |
+| This application should allow the users to select Xs or Os | Implemented |
+| This application should display the result without any error | Implemented |
+|This application should show the leaderboard after every game| Implemented |
+| This application should create the gaming environment | Implemented |
+## Low Level Requirements
+| Description | Status |
+| --- | --- |
+| 	User shall be able to read the output of the game | Implemented |
+
 
