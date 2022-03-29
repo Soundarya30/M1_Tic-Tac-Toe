@@ -28,21 +28,13 @@ int decision();
 void play_board();
 
 /**
-*  multiply the operand1, operand2 and returns the result
-* @param[in] operand1 
-* @param[in] operand2 
-* @return Result of operand1 * operand2
+* display the playboard of the Tiac-Tac-toe game
 */
-int multiply(int operand1, int operand2);
-
+void play_rules();
 
 /**
-* divides the operand1 by operand2 and returns the result 
-* @param[in] operand1 
-* @param[in] operand2 
-* @return integer value of the operand1 / operand2
-* @note returns 0 for divide by 0 error
+* display the rules of the Tic-Tac-Toe game
 */
-int divide(int operand1, int operand2);
+int checktowin();
 
-#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+#endif  /* #define __TIC_TAC_TOE_H__ */
