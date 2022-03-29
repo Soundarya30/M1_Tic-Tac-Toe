@@ -5,5 +5,10 @@ Tic-Tac-Toe game is also known as Xs and Os game or noughts and crosses game. It
 
 ![Tic-Tac-Toe game](https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU)
 # Features
+* int decision()
+
 * int checktowin()
+ 
+ 
+ ![features1](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/features.drawio.png)
  
