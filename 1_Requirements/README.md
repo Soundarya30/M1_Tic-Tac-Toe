@@ -13,8 +13,10 @@ Tic-Tac-Toe game is also known as Xs and Os game or noughts and crosses game. It
 
 
 ![feature2](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/feature2.drawio.png)
+* void play_board()
 
 
+![feature3](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/feature3.drawio.png)
 * int checktowin()
  
  
