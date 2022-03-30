@@ -9,3 +9,5 @@
 [![C/C++ CI](https://github.com/Soundarya30/M1_projectname/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/c-cpp.yml)
 * cppcheck
 [![cppcheck-action](https://github.com/Soundarya30/M1_projectname/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/cppcheck.yml)
+* Unit Testing
+[![Unit testing](https://github.com/Soundarya30/M1_projectname/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/unit-test.yml)
