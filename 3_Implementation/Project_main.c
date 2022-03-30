@@ -48,10 +48,10 @@ int main()
     read_the_game:
         r=fopen("score.txt","a+");
     printf("\nEnter player1 name: ");
-    scanf("%s",a1);
+    scanf("%60s",a1);
     fprintf(r,"\n%s",a1);
     printf("Enter player2 name: ");
-    scanf("%s",a2);
+    scanf("%60s",a2);
     fprintf(r,"\t%s",a2);
     fclose(r);
     if(!strcmp(a1,a2))
