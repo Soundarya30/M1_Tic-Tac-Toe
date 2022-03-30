@@ -13,3 +13,4 @@
 [![Unit testing](https://github.com/Soundarya30/M1_projectname/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/unit-test.yml)
 * Valgrind
 [![Valgrind](https://github.com/Soundarya30/M1_projectname/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/valgrind.yml)
+* Analysis
