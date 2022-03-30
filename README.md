@@ -5,5 +5,6 @@
 * Codiga- Static code analysis
 ![Codiga Badge](https://api.codiga.io/project/32208/status/svg)
 ![Codiga Quality Score](https://api.codiga.io/project/32208/score/svg)
-# Build
+* Build
 [![C/C++ CI](https://github.com/Soundarya30/M1_projectname/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/c-cpp.yml)
+* cppcheck
