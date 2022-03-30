@@ -14,3 +14,4 @@
 * Valgrind
 [![Valgrind](https://github.com/Soundarya30/M1_projectname/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/valgrind.yml)
 * Analysis
+[![Analysis](https://github.com/Soundarya30/M1_projectname/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/Analysis.yml)
