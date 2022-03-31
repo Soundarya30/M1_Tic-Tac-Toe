@@ -11,5 +11,6 @@ Finally, leaderboard of the game is displayed based on the scores obtained by th
 * GCC Compiler
 * Visual Studio Code
 ## Objective
+To create a gaming environment 
 
 
