@@ -7,20 +7,24 @@ Tic-Tac-Toe game is also known as Xs and Os game or noughts and crosses game. It
 # Features
 * int decision()
 
-
-![feature1](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/feature1.drawio.png)
+| Function | Output |
+| --- | --- |
+| int decision() | This function will decide whether the player chooses x or o |
 * void play_rules()
 
-
-![feature2](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/feature2.drawio.png)
+| Function | Output |
+| --- | --- |
+| void play_rules() | This function will display the rules of the game |
 * void play_board()
 
-
-![feature3](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/feature3.drawio.png)
+| Function | Output |
+| --- | --- |
+| void play_board() | This function will display the playboard of Tic-Tac-Toe game |
 * int checktowin()
  
- 
- ![features1](https://github.com/Soundarya30/M1_projectname/blob/main/1_Requirements/features.drawio.png)
+ | Function | Output |
+| --- | --- |
+| int checktowin() | This function display the winner of the game |
  # SWOT Analysis
  ## Strengths
  * Encourage us to play with our freinds
