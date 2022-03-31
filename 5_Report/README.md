@@ -11,6 +11,6 @@ Finally, leaderboard of the game is displayed based on the scores obtained by th
 * GCC Compiler
 * Visual Studio Code
 ## Objective
-To create a gaming environment 
+The main objective of this project is to create a gaming environment for mind relaxation
 
 
