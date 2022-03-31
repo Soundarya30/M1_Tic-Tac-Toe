@@ -21,7 +21,7 @@ Test cases are decided with the help of
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | Type of Test |
 | -------:|:-----------:|:-------:|:-------:|:----------:|:------------:|
 | H_01 | Check if the rules of the game is displayed properly | Program execution | Rules displayed | Rules displayed | Requirement |
-| H_02 | Not Stuck inside any Function | Function call | Proper function execution with return type and message | Proper function execution with return type and message | Requirement |
+| H_02 | Check if player chooses x or o | X or O | Player chooses either x or o | Player chooses either x or o | Requirement |
 | H_03 | Check whether the leaderboard is properly displayed | Score collection | Leaderboard displayed | Leaderboard displayed | Requirement |
 | H_04 | Check whether the winner is displayed properly | Same charactors obtained | Winner displayed | Winner displayed | Requirement |
 
