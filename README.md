@@ -1,6 +1,7 @@
 # M1_projectname
 # Badges
 * Codacy- Static code analysis
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/01349f688d8f425e96018b108e27df26)](https://app.codacy.com/gh/Soundarya30/M1_projectname?utm_source=github.com&utm_medium=referral&utm_content=Soundarya30/M1_projectname&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/eb681443ac1040b696c360ab6cd785b9)](https://www.codacy.com/gh/Soundarya30/M1_projectname/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Soundarya30/M1_projectname&amp;utm_campaign=Badge_Grade)
 * Codiga- Static code analysis
 ![Codiga Badge](https://api.codiga.io/project/32329/status/svg)
