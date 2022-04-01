@@ -13,5 +13,7 @@ Finally, leaderboard of the game is displayed based on the scores obtained by th
 ## Objective
 The main objective of this project is to create a gaming environment for mind relaxation
 
+![Tic-Tac-Toe game](https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/d07c1db617a36898b5e8c71013d228d11003eb36d7150b7abfe988fe097c7d66.png)
+
 
 
