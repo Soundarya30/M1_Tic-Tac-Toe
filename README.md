@@ -29,14 +29,12 @@ Folder             | Description
 # Contributor List and Summary
 Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------------------|----------------|----------------|---------------|-------------|--------------
-SoundaryaV   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 0        |0  | 4 | 4
+SoundaryaV   | Entire Project (Requirements, Design, Implementation, TestPlanandOutput and Report)  | 0        |0  | 4 | 4
 ## Challenges Faced and How Was It Overcome
 | No. | Challenge | Solution
 |-----|-----------|--------
 |1. | Issues in decision function | Declared the decision function before main function 
 |2. | Issues in running test cases | Specifying correct return values for functions
-|3. | Issues in workflows | fixed them by updating the path to all files correctly
-
 # Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
 * [Codiga](https://www.codiga.io/)
