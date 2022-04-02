@@ -31,7 +31,7 @@ Folder             | Description
 # Contributor List and Summary
 Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------------------|----------------|----------------|---------------|-------------|--------------
-SoundaryaV   | Entire Project (Requirements, Design, Implementation, TestPlanandOutput and Report)  | 0        |0  | 4 | 4
+SoundaryaV   | Entire Project (Requirements, Design, Implementation, TestPlanandOutput and Report)  | 1        |1  | 4 | 4
 ## Challenges Faced and How Was It Overcome
 | No. | Challenge | Solution
 |-----|-----------|--------
