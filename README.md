@@ -17,6 +17,8 @@
 [![Analysis](https://github.com/Soundarya30/M1_projectname/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/Analysis.yml)
 * Git Inspector
 [![Contribution Check - Git Inspector](https://github.com/Soundarya30/M1_projectname/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Soundarya30/M1_projectname/actions/workflows/git_inspector.yml)
+* Build - Windows
+[![Build CI - Windows](https://github.com/Soundarya30/M1_Tic-Tac-Toe/actions/workflows/Build%20-%20Windows.yml/badge.svg)](https://github.com/Soundarya30/M1_Tic-Tac-Toe/actions/workflows/Build%20-%20Windows.yml)
 # Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
